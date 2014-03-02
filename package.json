@@ -4,8 +4,25 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
+    		"java": "0.3.0",
         "boilerpipe" :"0.0.7",
         "express": "3.x",
         "node-readability": "0.3.2"
-    }
+    },
+    "main": "server.js",
+	  "scripts": {
+	    "test": "echo \"Error: no test specified\" && exit 1"
+	  },
+	  "repository": {
+	    "type": "git",
+	    "url": "https://github.com/ybv/boilerpipe-webapi.git"
+	  },
+	  "keywords": [
+	    "example",
+	    "heroku"
+	  ],
+	  "author": "ybv",
+	  "engines": {
+    "node": "0.10.x"
+  }
 }
