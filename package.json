@@ -6,7 +6,8 @@
     "dependencies": {
         "boilerpipe" :"0.0.7",
         "express": "3.x",
-        "node-readability": "0.3.2"
+        "node-readability": "0.3.2",
+        "find-java-home": "0.0.6"
     },
     "main": "server.js",
 	  "repository": {
