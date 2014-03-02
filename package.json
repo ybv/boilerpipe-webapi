@@ -1,0 +1,11 @@
+{
+    "name": "bppp",
+    "description": "boilerpipe Test Application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "boilerpipe" :"0.0.7",
+        "express": "3.x",
+        "node-readability": "0.3.2"
+    }
+}
